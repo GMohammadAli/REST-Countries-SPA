@@ -2,7 +2,7 @@ import {
   getCountries,
   searchCountriesWithRegion,
   searchCountryWithName,
-} from "../api/ApiService.js";
+} from "./ApiService.js";
 
 // Sources -> https://developer.mozilla.org/en-US/docs/Web/API/History_API
 
